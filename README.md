@@ -1,0 +1,2 @@
+# SpaghettibotRepo
+Repository for spaghettibot
